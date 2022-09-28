@@ -1,7 +1,7 @@
 ![Diagram of circles orbiting a center](images/orbit_model_color.png)
 
 
-# Welcome to the Orbit Model
+# Welcome to the Orbit Joe is Awesome
 
 The Orbit Model is a framework for building high gravity communities. A high gravity community is one that excels at attracting and retaining members by providing an outstanding member experience.
 
